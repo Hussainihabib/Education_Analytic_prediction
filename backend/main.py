@@ -208,7 +208,7 @@ from app.api import (
     notification_router,
     support_router,
     prediction,
-    spark,
+    # spark,
     reports,
     ingestion,
 )
@@ -326,11 +326,11 @@ app.include_router(
     tags=["Prediction / ML"]
 )
 
-app.include_router(
-    spark.router,
-    prefix="/spark",
-    tags=["Spark Analytics"]
-)
+# app.include_router(
+#     spark.router,
+#     prefix="/spark",
+#     tags=["Spark Analytics"]
+# )
 
 app.include_router(
     reports.router,
@@ -370,10 +370,9 @@ def health():
 # ==========================================
 # Scheduler Control
 # ==========================================
-
 RUN_SCHEDULER = os.getenv(
     "RUN_SCHEDULER",
-    "true"
+    "false"
 ).lower() == "true"
 
 
