@@ -1,25 +1,22 @@
 import logging
-import os
-
-LOG_DIR = "logs"
-
-if not os.path.exists(LOG_DIR):
-    os.makedirs(LOG_DIR)
-
-logging.basicConfig(
-
-    level=logging.INFO,
-
-    format="%(asctime)s | %(levelname)s | %(message)s",
-
-    handlers=[
-
-        logging.FileHandler("logs/app.log"),
-
-        logging.StreamHandler()
-
-    ]
-
-)
+import sys
 
 logger = logging.getLogger("EduPredict")
+
+logger.setLevel(logging.INFO)
+
+# Duplicate handlers avoid karne ke liye
+if not logger.handlers:
+
+    console_handler = logging.StreamHandler(sys.stdout)
+
+    formatter = logging.Formatter(
+        "%(asctime)s | %(levelname)s | %(message)s"
+    )
+
+    console_handler.setFormatter(formatter)
+
+    logger.addHandler(console_handler)
+
+# Parent logger ko duplicate logs bhejne se rokta hai
+logger.propagate = False
