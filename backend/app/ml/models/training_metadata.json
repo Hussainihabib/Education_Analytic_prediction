@@ -1,0 +1,143 @@
+{
+  "trained_at": "2026-08-29T12:38:13.907816+00:00",
+  "source": "MongoDB",
+  "models": [
+    {
+      "model": "performance",
+      "accuracy": 100.0,
+      "records": 1000,
+      "classes": [
+        "Fail",
+        "Pass"
+      ],
+      "model_path": "performance_model.joblib",
+      "trained_at": "2026-08-29T12:38:02.306218+00:00",
+      "report": {
+        "Fail": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 39.0
+        },
+        "Pass": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 161.0
+        },
+        "accuracy": 1.0,
+        "macro avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 200.0
+        },
+        "weighted avg": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 200.0
+        }
+      }
+    },
+    {
+      "model": "dropout",
+      "accuracy": 94.0,
+      "records": 1000,
+      "classes": [
+        "High",
+        "Low",
+        "Medium"
+      ],
+      "model_path": "dropout_model.joblib",
+      "trained_at": "2026-08-29T12:38:08.568766+00:00",
+      "report": {
+        "High": {
+          "precision": 0.7727272727272727,
+          "recall": 0.8095238095238095,
+          "f1-score": 0.7906976744186046,
+          "support": 21.0
+        },
+        "Low": {
+          "precision": 0.9655172413793104,
+          "recall": 0.9824561403508771,
+          "f1-score": 0.9739130434782609,
+          "support": 57.0
+        },
+        "Medium": {
+          "precision": 0.9583333333333334,
+          "recall": 0.9426229508196722,
+          "f1-score": 0.9504132231404959,
+          "support": 122.0
+        },
+        "accuracy": 0.94,
+        "macro avg": {
+          "precision": 0.8988592824799722,
+          "recall": 0.911534300231453,
+          "f1-score": 0.9050079803457871,
+          "support": 200.0
+        },
+        "weighted avg": {
+          "precision": 0.9408921107628003,
+          "recall": 0.94,
+          "f1-score": 0.9403405393209604,
+          "support": 200.0
+        }
+      },
+      "target_source": "student.dropout_risk/dropout_status when present; otherwise derived from current attendance, CGPA, marks and failures"
+    },
+    {
+      "model": "course_demand",
+      "accuracy": 30.0,
+      "records": 50,
+      "classes": [
+        "High",
+        "Low",
+        "Medium"
+      ],
+      "model_path": "course_demand_model.joblib",
+      "trained_at": "2026-08-29T12:38:11.532185+00:00",
+      "report": {
+        "High": {
+          "precision": 0.3333333333333333,
+          "recall": 0.5,
+          "f1-score": 0.4,
+          "support": 4.0
+        },
+        "Low": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 3.0
+        },
+        "Medium": {
+          "precision": 0.3333333333333333,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.3333333333333333,
+          "support": 3.0
+        },
+        "accuracy": 0.3,
+        "macro avg": {
+          "precision": 0.2222222222222222,
+          "recall": 0.27777777777777773,
+          "f1-score": 0.24444444444444446,
+          "support": 10.0
+        },
+        "weighted avg": {
+          "precision": 0.2333333333333333,
+          "recall": 0.3,
+          "f1-score": 0.26,
+          "support": 10.0
+        }
+      },
+      "target_source": "Course demand derived from current course enrollment ranking."
+    },
+    {
+      "model": "anomaly",
+      "records": 1000,
+      "anomalies": 10,
+      "trained_at": "2026-08-29T12:38:13.906817+00:00",
+      "model_path": "anomaly_model.joblib"
+    }
+  ]
+}

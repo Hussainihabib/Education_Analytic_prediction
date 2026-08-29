@@ -1,0 +1,155 @@
+course_id,course_name,course_code,department_id,department,teacher_id,teacher_name,credit_hours,semester,course_type,description,status,created_at
+C00001,Programming Fundamentals,CS-1001,DEP001,Computer Science,T00296,Elaine Tucker,3,8,Elective,News group trade no industry sea.,Active,2026-08-08 12:40:08.968
+C00002,PYTHON Programming,CS-1002,DEP002,Software Engineering,T00001,Danielle Johnson,3,7,Core,War matter member music everybody while open.,Active,2026-08-08 12:40:08.968
+C00003,Database Systems,CS-1003,DEP003,Information Technology,T00005,Yasmeen,2,4,Elective,Friend reveal generation late why recent per health of.,Inactive,2026-08-08 12:40:08.968
+C00004,Data Structures,CS-1004,DEP004,Artificial Intelligence,T00237,Kristen Hill,4,2,Elective,Become pull lead feel force away hospital beautiful.,Active,2026-08-08 12:40:08.968
+C00005,Algorithms,CS-1005,DEP005,Data Science,T00214,Steven Brown,4,8,Core,Here agree car one process throughout cut trip discussion measure development.,Active,2026-08-08 12:40:08.968
+C00006,Operating Systems,CS-1006,DEP006,Cyber Security,T00241,Jessica Bates,4,5,Core,Fly listen hundred strategy rather present raise save society.,Active,2026-08-08 12:40:08.968
+C00007,Computer Networks,CS-1007,DEP007,Business Administration,T00014,Cheryl Watson,2,8,Core,Ok someone film inside down.,Active,2026-08-08 12:40:08.968
+C00008,Software Engineering,CS-1008,DEP008,Accounting,T00063,Kristen Davis,4,5,Elective,Special condition age site billion.,Active,2026-08-08 12:40:08.968
+C00009,Artificial Intelligence,CS-1009,DEP009,Finance,T00037,Kayla Wilson,3,7,Core,Represent area sense various.,Active,2026-08-08 12:40:08.968
+C00010,Machine Learning,CS-1010,DEP010,Economics,T00168,Sandra White,2,3,Elective,Beat open exist perhaps wrong sort product.,Active,2026-08-08 12:40:08.968
+C00011,Deep Learning,CS-1011,DEP011,Marketing,T00133,Terri Garrison,3,5,Core,Paper hard analysis while cup single series.,Active,2026-08-08 12:40:08.969
+C00012,Data Mining,CS-1012,DEP012,Management,T00094,Deborah Valenzuela,4,1,Elective,Into effort method main support small computer fact blue.,Active,2026-08-08 12:40:08.969
+C00013,Cloud Computing,CS-1013,DEP013,Electrical Engineering,T00291,Danielle Martinez,4,6,Elective,While own indeed piece use piece.,Active,2026-08-08 12:40:08.969
+C00014,Big Data Analytics,CS-1014,DEP014,Mechanical Engineering,T00219,Evan Murphy,3,3,Core,Sound hundred partner common sport.,Active,2026-08-08 12:40:08.969
+C00015,Cyber Security,CS-1015,DEP015,Civil Engineering,T00109,Robert Davis,2,4,Elective,Range before herself item information while occur.,Inactive,2026-08-08 12:40:08.969
+C00016,Web Development,CS-1016,DEP016,Architecture,T00158,Michael Smith,2,1,Core,Student far air gun either memory rather voice pull expert.,Active,2026-08-08 12:40:08.969
+C00017,Mobile Application Development,CS-1017,DEP017,Mathematics,T00048,Timothy Humphrey,4,2,Core,Audience financial kitchen special herself value culture.,Inactive,2026-08-08 12:40:08.969
+C00018,Computer Vision,CS-1018,DEP018,Physics,T00221,Ashley Davis,3,8,Elective,Remain letter voice alone option site together.,Active,2026-08-08 12:40:08.969
+C00019,Natural Language Processing,CS-1019,DEP019,Chemistry,T00128,Lisa Davis,4,6,Core,Everybody cold happen begin would program difference occur.,Active,2026-08-08 12:40:08.969
+C00020,Internet of Things,CS-1020,DEP020,Biology,T00034,Brian Abbott,4,4,Core,Computer while mention out line stuff summer outside.,Active,2026-08-08 12:40:08.969
+C00021,Programming Fundamentals,CS-1021,DEP005,Data Science,T00115,Susan Nelson,3,5,Core,Concern arrive less property book thing.,Active,2026-08-08 12:40:08.969
+C00022,Object Oriented Programming,CS-1022,DEP013,Electrical Engineering,T00119,Amy Martinez,4,7,Elective,Hard mention manage mean usually see.,Active,2026-08-08 12:40:08.969
+C00023,Database Systems,CS-1023,DEP010,Economics,T00224,Deborah Smith,4,8,Elective,Despite old television lay city.,Inactive,2026-08-08 12:40:08.969
+C00024,Data Structures,CS-1024,DEP006,Cyber Security,T00043,Jeremy Hansen,2,7,Core,Class former position let become view need subject.,Active,2026-08-08 12:40:08.969
+C00025,Algorithms,CS-1025,DEP019,Chemistry,T00004,Jennifer Olsen,4,6,Elective,Himself daughter rise finish soon treat popular answer somebody road.,Active,2026-08-08 12:40:08.969
+C00026,Operating Systems,CS-1026,DEP018,Physics,T00216,Sydney Hamilton,4,7,Core,Food quickly themselves executive eat popular.,Active,2026-08-08 12:40:08.969
+C00027,Computer Networks,CS-1027,DEP008,Accounting,T00286,Evelyn Herrera,2,2,Core,True important when available once sure soon build price.,Active,2026-08-08 12:40:08.969
+C00028,Software Engineering,CS-1028,DEP018,Physics,T00230,Shawna Collins,4,4,Elective,Book order along mean both loss try everyone.,Active,2026-08-08 12:40:08.969
+C00029,Artificial Intelligence,CS-1029,DEP005,Data Science,T00115,Susan Nelson,4,6,Core,Not guy stop someone key energy.,Active,2026-08-08 12:40:08.969
+C00030,Machine Learning,CS-1030,DEP016,Architecture,T00118,Darryl Jenkins,3,6,Elective,Improve billion its myself development else information group bring shake.,Active,2026-08-08 12:40:08.969
+C00031,Deep Learning,CS-1031,DEP008,Accounting,T00063,Kristen Davis,3,7,Core,Mouth price know feel moment determine.,Active,2026-08-08 12:40:08.969
+C00032,Data Mining,CS-1032,DEP013,Electrical Engineering,T00030,Dennis Kim,3,8,Core,Free nor idea news oil.,Inactive,2026-08-08 12:40:08.970
+C00033,Cloud Computing,CS-1033,DEP017,Mathematics,T00139,Gary Green,4,8,Core,News return prove fund institution.,Active,2026-08-08 12:40:08.970
+C00034,Big Data Analytics,CS-1034,DEP007,Business Administration,T00188,Joy Russell,4,2,Core,Appear yeah receive travel notice out buy compare organization.,Active,2026-08-08 12:40:08.970
+C00035,Cyber Security,CS-1035,DEP001,Computer Science,T00148,Teresa Cooper,4,1,Elective,Significant crime south short nearly.,Active,2026-08-08 12:40:08.970
+C00036,Web Development,CS-1036,DEP019,Chemistry,T00160,Sherri Solomon,4,6,Elective,Run set since within worker.,Active,2026-08-08 12:40:08.970
+C00037,Mobile Application Development,CS-1037,DEP018,Physics,T00204,Nicholas Owens,3,8,Core,Imagine moment fight toward happy effect interesting.,Active,2026-08-08 12:40:08.970
+C00038,Computer Vision,CS-1038,DEP014,Mechanical Engineering,T00086,Travis Robertson,2,7,Elective,Reach behind Republican hundred your center through truth.,Active,2026-08-08 12:40:08.970
+C00039,Natural Language Processing,CS-1039,DEP015,Civil Engineering,T00020,Melissa Chapman,2,3,Elective,Could test yourself bad record pass head large their cell president.,Active,2026-08-08 12:40:08.970
+C00040,Internet of Things,CS-1040,DEP001,Computer Science,T00240,Natasha Thompson,4,8,Core,Here decision need sort side fish different term technology kid.,Active,2026-08-08 12:40:08.970
+C00041,Programming Fundamentals,CS-1041,DEP007,Business Administration,T00036,Lisa Floyd,4,3,Elective,Education administration thus book per rest need outside first billion race.,Active,2026-08-08 12:40:08.970
+C00042,Object Oriented Programming,CS-1042,DEP008,Accounting,T00286,Evelyn Herrera,3,5,Elective,Allow floor tonight between newspaper.,Active,2026-08-08 12:40:08.970
+C00043,Database Systems,CS-1043,DEP015,Civil Engineering,T00121,Veronica Sosa,2,4,Core,Dog science send six measure hospital run south.,Active,2026-08-08 12:40:08.970
+C00044,Data Structures,CS-1044,DEP020,Biology,T00201,Kurt Harris,2,4,Elective,Perhaps audience debate enough.,Active,2026-08-08 12:40:08.970
+C00045,Algorithms,CS-1045,DEP018,Physics,T00172,Emily Meyers,4,2,Elective,Art everything save they company general situation without write politics.,Active,2026-08-08 12:40:08.970
+C00046,Operating Systems,CS-1046,DEP005,Data Science,T00068,Ryan Smith,3,1,Core,Point page lose effort quickly.,Active,2026-08-08 12:40:08.970
+C00047,Computer Networks,CS-1047,DEP018,Physics,T00154,Linda Moore,3,3,Elective,Just magazine road cold catch military practice relate.,Active,2026-08-08 12:40:08.970
+C00048,Software Engineering,CS-1048,DEP001,Computer Science,T00148,Teresa Cooper,2,3,Elective,Store home material film hour eat wall.,Inactive,2026-08-08 12:40:08.970
+C00049,Artificial Intelligence,CS-1049,DEP009,Finance,T00076,Rachael Horne,3,7,Core,Position away find last table argue able hotel model.,Active,2026-08-08 12:40:08.970
+C00050,Machine Learning,CS-1050,DEP015,Civil Engineering,T00025,Patricia Cooper,4,5,Elective,We cut responsibility together who there bar.,Active,2026-08-08 12:40:08.970
+C00051,Deep Learning,CS-1051,DEP007,Business Administration,T00175,Gerald Lee,3,1,Elective,Listen leg out article work win maybe manager.,Inactive,2026-08-08 12:40:08.971
+C00052,Data Mining,CS-1052,DEP012,Management,T00235,Denise Little,4,8,Elective,History speak box toward top.,Active,2026-08-08 12:40:08.971
+C00053,Cloud Computing,CS-1053,DEP004,Artificial Intelligence,T00070,Maria Kelly,4,3,Core,Just possible product military unit represent once training major.,Active,2026-08-08 12:40:08.971
+C00054,Big Data Analytics,CS-1054,DEP014,Mechanical Engineering,T00130,Traci Stevenson,3,6,Elective,Remember Democrat picture like class board note pretty painting agree indeed.,Active,2026-08-08 12:40:08.971
+C00055,Cyber Security,CS-1055,DEP005,Data Science,T00228,Tim Bell,3,6,Elective,By where miss analysis word gas according federal son.,Inactive,2026-08-08 12:40:08.971
+C00056,Web Development,CS-1056,DEP003,Information Technology,T00017,Frank Wolf,3,8,Core,Off question game effort fight fill.,Active,2026-08-08 12:40:08.971
+C00057,Mobile Application Development,CS-1057,DEP010,Economics,T00236,Stephanie Murphy,4,4,Elective,Difference with happen certainly likely choose.,Active,2026-08-08 12:40:08.971
+C00058,Computer Vision,CS-1058,DEP001,Computer Science,T00187,Kim Burgess,4,4,Elective,Kind ability ground foot wide message respond human dog.,Active,2026-08-08 12:40:08.971
+C00059,Natural Language Processing,CS-1059,DEP004,Artificial Intelligence,T00300,Aaron Bailey,2,8,Core,Expert rock candidate TV term off president.,Active,2026-08-08 12:40:08.971
+C00060,Internet of Things,CS-1060,DEP011,Marketing,T00075,Jamie Ingram,4,1,Core,That collection consider sell space range see task inside.,Inactive,2026-08-08 12:40:08.971
+C00061,Programming Fundamentals,CS-1061,DEP013,Electrical Engineering,T00213,Christopher Fields,3,5,Elective,Voice behind medical energy forward leg late newspaper.,Active,2026-08-08 12:40:08.971
+C00062,Object Oriented Programming,CS-1062,DEP015,Civil Engineering,T00147,Pamela Stuart,3,5,Core,Mission behind line look represent whole measure crime upon.,Active,2026-08-08 12:40:08.971
+C00063,Database Systems,CS-1063,DEP010,Economics,T00010,Yolanda Brown,2,2,Elective,Media reveal room significant yard five.,Active,2026-08-08 12:40:08.971
+C00064,Data Structures,CS-1064,DEP013,Electrical Engineering,T00273,Deanna Williams,3,6,Elective,Nearly necessary develop create year door case however election positive surface.,Active,2026-08-08 12:40:08.971
+C00065,Algorithms,CS-1065,DEP003,Information Technology,T00244,Jeffrey Smith,2,3,Elective,Stage production method finally church.,Active,2026-08-08 12:40:08.971
+C00066,Operating Systems,CS-1066,DEP019,Chemistry,T00044,Michael Ramirez,3,4,Elective,Structure loss head remember remember run up sit inside.,Active,2026-08-08 12:40:08.971
+C00067,Computer Networks,CS-1067,DEP004,Artificial Intelligence,T00290,Breanna Fuentes,2,8,Elective,Main college partner if else between pay.,Inactive,2026-08-08 12:40:08.971
+C00068,Software Engineering,CS-1068,DEP004,Artificial Intelligence,T00067,Matthew Berger,2,5,Core,No site issue beat image food travel.,Active,2026-08-08 12:40:08.971
+C00069,Artificial Intelligence,CS-1069,DEP003,Information Technology,T00017,Frank Wolf,2,1,Elective,Support individual list article eye catch food career paper tax.,Active,2026-08-08 12:40:08.971
+C00070,Machine Learning,CS-1070,DEP008,Accounting,T00191,Tina Haney,2,7,Core,Southern travel modern attack like.,Inactive,2026-08-08 12:40:08.971
+C00071,Deep Learning,CS-1071,DEP007,Business Administration,T00233,Sylvia Bond,3,6,Elective,Try choose speak speech serve story start try send sure.,Active,2026-08-08 12:40:08.971
+C00072,Data Mining,CS-1072,DEP001,Computer Science,T00015,Julie Johnson,4,6,Elective,Our ahead Republican forget down prevent wear mind.,Active,2026-08-08 12:40:08.971
+C00073,Cloud Computing,CS-1073,DEP015,Civil Engineering,T00061,Kimberly Boone,4,3,Elective,Either team gas really safe.,Active,2026-08-08 12:40:08.972
+C00074,Big Data Analytics,CS-1074,DEP016,Architecture,T00234,Brian Miller,2,3,Elective,Wrong food option drug finish form your past compare remember.,Active,2026-08-08 12:40:08.972
+C00075,Cyber Security,CS-1075,DEP016,Architecture,T00234,Brian Miller,2,5,Core,According worker break light its big continue debate.,Active,2026-08-08 12:40:08.972
+C00076,Web Development,CS-1076,DEP020,Biology,T00019,Alex Estrada,3,5,Core,Her term live place never activity age certainly operation.,Active,2026-08-08 12:40:08.972
+C00077,Mobile Application Development,CS-1077,DEP019,Chemistry,T00274,Brooke Green,3,1,Elective,Direction shoulder agent room account again throughout.,Active,2026-08-08 12:40:08.972
+C00078,Computer Vision,CS-1078,DEP011,Marketing,T00073,Joshua Green,3,6,Core,Can less child sort not fight professor discover truth enter.,Active,2026-08-08 12:40:08.972
+C00079,Natural Language Processing,CS-1079,DEP018,Physics,T00251,Barbara Acevedo,4,4,Elective,Media model field risk buy part environment myself serious area medical.,Active,2026-08-08 12:40:08.972
+C00080,Internet of Things,CS-1080,DEP002,Software Engineering,T00062,Beth Rivers,4,7,Elective,Impact bit for approach society right.,Active,2026-08-08 12:40:08.972
+C00081,Programming Fundamentals,CS-1081,DEP002,Software Engineering,T00078,Yvonne Mcintosh,4,7,Core,Price official state education serious even lot.,Active,2026-08-08 12:40:08.972
+C00082,Object Oriented Programming,CS-1082,DEP009,Finance,T00100,Theresa Martinez,4,6,Core,Project ahead can two happy tough hard thank.,Active,2026-08-08 12:40:08.972
+C00083,Database Systems,CS-1083,DEP018,Physics,T00185,Laura Cole,4,1,Core,Himself international fight will guy early must.,Active,2026-08-08 12:40:08.972
+C00084,Data Structures,CS-1084,DEP008,Accounting,T00069,Catherine Peck,4,5,Elective,Defense force true around within there deal attorney break.,Active,2026-08-08 12:40:08.972
+C00085,Algorithms,CS-1085,DEP020,Biology,T00080,James Riley,2,6,Core,Business tell at nice drug reality similar.,Active,2026-08-08 12:40:08.972
+C00086,Operating Systems,CS-1086,DEP018,Physics,T00172,Emily Meyers,4,7,Core,Parent garden activity mouth again society security west.,Active,2026-08-08 12:40:08.972
+C00087,Computer Networks,CS-1087,DEP017,Mathematics,T00108,Brooke Castillo,2,4,Elective,Practice mention society treatment apply.,Active,2026-08-08 12:40:08.972
+C00088,Software Engineering,CS-1088,DEP014,Mechanical Engineering,T00202,Kevin Mcdonald,4,4,Core,Seven home enter impact future receive.,Inactive,2026-08-08 12:40:08.972
+C00089,Artificial Intelligence,CS-1089,DEP008,Accounting,T00208,Sophia Jackson,3,4,Core,Past laugh speech young industry their left maintain effort explain.,Active,2026-08-08 12:40:08.972
+C00090,Machine Learning,CS-1090,DEP001,Computer Science,T00240,Natasha Thompson,3,5,Elective,Population like out activity order although would.,Active,2026-08-08 12:40:08.972
+C00091,Deep Learning,CS-1091,DEP020,Biology,T00201,Kurt Harris,4,5,Elective,Area staff travel fast establish ago style production pass action training.,Active,2026-08-08 12:40:08.972
+C00092,Data Mining,CS-1092,DEP002,Software Engineering,T00062,Beth Rivers,4,2,Core,Compare choice call each around right traditional seek.,Active,2026-08-08 12:40:08.972
+C00093,Cloud Computing,CS-1093,DEP010,Economics,T00224,Deborah Smith,4,3,Core,Want old car soldier administration have traditional music woman.,Inactive,2026-08-08 12:40:08.972
+C00094,Big Data Analytics,CS-1094,DEP001,Computer Science,T00060,Paul Williams,2,4,Elective,Piece recently environment serve democratic music consider today debate.,Inactive,2026-08-08 12:40:08.972
+C00095,Cyber Security,CS-1095,DEP013,Electrical Engineering,T00291,Danielle Martinez,3,3,Core,Floor resource down safe no assume foot budget themselves author.,Active,2026-08-08 12:40:08.973
+C00096,Web Development,CS-1096,DEP013,Electrical Engineering,T00167,Desiree Evans,2,5,Elective,Ok yet list personal.,Active,2026-08-08 12:40:08.973
+C00097,Mobile Application Development,CS-1097,DEP008,Accounting,T00191,Tina Haney,3,4,Elective,Chance affect adult across guy nature camera real put participant.,Active,2026-08-08 12:40:08.973
+C00098,Computer Vision,CS-1098,DEP019,Chemistry,T00297,Richard Mcknight,4,7,Core,Seem purpose note military treat cover simply upon send.,Active,2026-08-08 12:40:08.973
+C00099,Natural Language Processing,CS-1099,DEP014,Mechanical Engineering,T00092,Maria Johnson,3,3,Elective,Want including month people writer thank piece such start.,Active,2026-08-08 12:40:08.973
+C00100,Internet of Things,CS-1100,DEP015,Civil Engineering,T00170,Dustin Bennett,4,6,Elective,They nearly safe between your heart.,Active,2026-08-08 12:40:08.973
+C00101,Programming Fundamentals,CS-1101,DEP004,Artificial Intelligence,T00067,Matthew Berger,4,5,Elective,Word conference really half stage day.,Active,2026-08-08 12:40:08.973
+C00102,Object Oriented Programming,CS-1102,DEP019,Chemistry,T00160,Sherri Solomon,4,5,Core,Trial decide purpose dinner mention side figure indeed woman want.,Active,2026-08-08 12:40:08.973
+C00103,Database Systems,CS-1103,DEP019,Chemistry,T00160,Sherri Solomon,3,8,Elective,Follow say scientist affect admit somebody quality.,Active,2026-08-08 12:40:08.973
+C00104,Data Structures,CS-1104,DEP012,Management,T00041,Natalie Frederick,4,1,Core,Trip picture speech quality else learn red audience.,Active,2026-08-08 12:40:08.973
+C00105,Algorithms,CS-1105,DEP005,Data Science,T00093,Courtney Neal,3,8,Elective,Poor avoid old from back artist painting whose whether blue.,Inactive,2026-08-08 12:40:08.973
+C00106,Operating Systems,CS-1106,DEP019,Chemistry,T00128,Lisa Davis,3,2,Core,Nearly agree leave it provide far theory key become.,Active,2026-08-08 12:40:08.973
+C00107,Computer Networks,CS-1107,DEP001,Computer Science,T00060,Paul Williams,3,1,Elective,Station born boy far plan someone.,Active,2026-08-08 12:40:08.973
+C00108,Software Engineering,CS-1108,DEP013,Electrical Engineering,T00050,Mary Martinez,3,5,Elective,Culture democratic child green happy support security Republican service.,Active,2026-08-08 12:40:08.973
+C00109,Artificial Intelligence,CS-1109,DEP013,Electrical Engineering,T00065,Jacqueline Scott,3,5,Elective,Little camera pass serve trip best at soon such general.,Active,2026-08-08 12:40:08.973
+C00110,Machine Learning,CS-1110,DEP010,Economics,T00249,Scott Williams,4,3,Elective,Appear owner each central single find effect win drug ok.,Active,2026-08-08 12:40:08.973
+C00111,Deep Learning,CS-1111,DEP016,Architecture,T00184,Vernon Wilson,4,2,Core,Look kid wear responsibility memory what.,Active,2026-08-08 12:40:08.973
+C00112,Data Mining,CS-1112,DEP007,Business Administration,T00084,Joshua Taylor,3,4,Elective,Local tree eye once kitchen start.,Active,2026-08-08 12:40:08.973
+C00113,Cloud Computing,CS-1113,DEP003,Information Technology,T00220,Jeremy Bentley,4,1,Core,Follow political far because person yet.,Active,2026-08-08 12:40:08.973
+C00114,Big Data Analytics,CS-1114,DEP006,Cyber Security,T00031,Diana Jennings,3,7,Elective,Capital event say case seem others we.,Active,2026-08-08 12:40:08.973
+C00115,Cyber Security,CS-1115,DEP014,Mechanical Engineering,T00092,Maria Johnson,4,1,Elective,Above military report agent film price push carry ready.,Active,2026-08-08 12:40:08.973
+C00116,Web Development,CS-1116,DEP020,Biology,T00080,James Riley,3,6,Core,Fill miss free assume situation half debate.,Active,2026-08-08 12:40:08.973
+C00117,Mobile Application Development,CS-1117,DEP012,Management,T00041,Natalie Frederick,2,1,Elective,Team group head require focus.,Active,2026-08-08 12:40:08.973
+C00118,Computer Vision,CS-1118,DEP012,Management,T00235,Denise Little,4,8,Elective,Investment I father goal walk movement big care simply avoid.,Active,2026-08-08 12:40:08.974
+C00119,Natural Language Processing,CS-1119,DEP004,Artificial Intelligence,T00150,Justin Lane,2,8,Core,Into expect figure town difficult through.,Active,2026-08-08 12:40:08.974
+C00120,Internet of Things,CS-1120,DEP003,Information Technology,T00017,Frank Wolf,2,8,Elective,Difficult glass major let knowledge themselves.,Active,2026-08-08 12:40:08.974
+C00121,Programming Fundamentals,CS-1121,DEP006,Cyber Security,T00276,Patrick Smith,4,8,Core,Cut add ever Republican trouble.,Active,2026-08-08 12:40:08.974
+C00122,Object Oriented Programming,CS-1122,DEP018,Physics,T00216,Sydney Hamilton,4,6,Elective,Like mention hope deal agree.,Active,2026-08-08 12:40:08.974
+C00123,Database Systems,CS-1123,DEP006,Cyber Security,T00166,Jennifer Collins,3,8,Elective,Participant yard issue feel north west out word power.,Active,2026-08-08 12:40:08.974
+C00124,Data Structures,CS-1124,DEP018,Physics,T00105,Megan Adkins,2,3,Core,Against former economic culture interesting.,Active,2026-08-08 12:40:08.974
+C00125,Algorithms,CS-1125,DEP011,Marketing,T00073,Joshua Green,4,2,Core,Scene star keep chair catch allow tell fish century.,Active,2026-08-08 12:40:08.974
+C00126,Operating Systems,CS-1126,DEP016,Architecture,T00007,Raymond Ingram,4,6,Elective,Black travel happy probably chair.,Active,2026-08-08 12:40:08.974
+C00127,Computer Networks,CS-1127,DEP011,Marketing,T00246,Christopher Wright,4,1,Core,Nation similar sister true station.,Inactive,2026-08-08 12:40:08.974
+C00128,Software Engineering,CS-1128,DEP007,Business Administration,T00197,Mark Smith,4,6,Elective,Fine present guess receive different.,Active,2026-08-08 12:40:08.974
+C00129,Artificial Intelligence,CS-1129,DEP006,Cyber Security,T00031,Diana Jennings,4,1,Core,Other operation list road suffer once.,Active,2026-08-08 12:40:08.974
+C00130,Machine Learning,CS-1130,DEP011,Marketing,T00218,Ebony Campbell,2,8,Core,Break model still enough kitchen when.,Active,2026-08-08 12:40:08.974
+C00131,Deep Learning,CS-1131,DEP003,Information Technology,T00111,Gary Rose,4,5,Core,Less sing serious prove within.,Active,2026-08-08 12:40:08.974
+C00132,Data Mining,CS-1132,DEP010,Economics,T00193,Elizabeth Carson,3,3,Elective,Industry by truth part among.,Active,2026-08-08 12:40:08.974
+C00133,Cloud Computing,CS-1133,DEP014,Mechanical Engineering,T00103,Virginia Oliver,2,2,Elective,Story physical serious always force add.,Active,2026-08-08 12:40:08.974
+C00134,Big Data Analytics,CS-1134,DEP002,Software Engineering,T00062,Beth Rivers,4,5,Core,Base heart out character marriage part make rate poor choose.,Active,2026-08-08 12:40:08.974
+C00135,Cyber Security,CS-1135,DEP020,Biology,T00280,Peter Russell,2,1,Core,System matter add Mr just.,Active,2026-08-08 12:40:08.974
+C00136,Web Development,CS-1136,DEP019,Chemistry,T00274,Brooke Green,4,7,Elective,Cover owner down professional decade indeed.,Active,2026-08-08 12:40:08.974
+C00137,Mobile Application Development,CS-1137,DEP020,Biology,T00280,Peter Russell,2,5,Core,Certain talk ten list ago.,Active,2026-08-08 12:40:08.974
+C00138,Computer Vision,CS-1138,DEP007,Business Administration,T00275,Mike Cook,2,5,Elective,Land design man artist story such center world trade position far.,Active,2026-08-08 12:40:08.974
+C00139,Natural Language Processing,CS-1139,DEP002,Software Engineering,T00176,Anne Kline,2,8,Elective,President by star plan.,Active,2026-08-08 12:40:08.974
+C00140,Internet of Things,CS-1140,DEP001,Computer Science,T00187,Kim Burgess,3,4,Core,Career institution body official close individual represent near.,Active,2026-08-08 12:40:08.974
+C00141,Programming Fundamentals,CS-1141,DEP005,Data Science,T00199,David Allen,2,2,Elective,Staff school teach enjoy real nor policy.,Active,2026-08-08 12:40:08.975
+C00142,Object Oriented Programming,CS-1142,DEP013,Electrical Engineering,T00030,Dennis Kim,4,3,Core,Very science color institution player store act number moment little reduce.,Active,2026-08-08 12:40:08.975
+C00143,Database Systems,CS-1143,DEP002,Software Engineering,T00114,Daniel Duncan,3,5,Elective,Blue upon when reach production require.,Active,2026-08-08 12:40:08.975
+C00144,Data Structures,CS-1144,DEP011,Marketing,T00133,Terri Garrison,4,7,Elective,Painting particularly culture concern under send parent just visit.,Active,2026-08-08 12:40:08.975
+C00145,Algorithms,CS-1145,DEP005,Data Science,T00022,Carrie Mcguire,4,3,Elective,Sport leave five cut look evening cultural similar our.,Active,2026-08-08 12:40:08.975
+C00146,Operating Systems,CS-1146,DEP014,Mechanical Engineering,T00238,Jaclyn West,4,8,Elective,Investment black since since.,Active,2026-08-08 12:40:08.975
+C00147,Computer Networks,CS-1147,DEP009,Finance,T00037,Kayla Wilson,3,2,Elective,Type least can here place.,Active,2026-08-08 12:40:08.975
+C00148,Software Engineering,CS-1148,DEP005,Data Science,T00199,David Allen,2,4,Elective,Believe place where new scientist radio individual participant join it meet.,Active,2026-08-08 12:40:08.975
+C00149,Artificial Intelligence,CS-1149,DEP019,Chemistry,T00110,Kimberly Clayton,3,3,Core,Billion mouth entire line.,Active,2026-08-08 12:40:08.975
+C00150,Machine Learning,CS-1150,DEP002,Software Engineering,T00001,Danielle Johnson,2,1,Elective,Nature education other community power beautiful door contain executive.,Active,2026-08-08 12:40:08.975
+,REACT JS,CS00124,,SOFTWARE ENGINEERING,,KIRAN SHAKEEL,5,5,Elective,,Active,2026-08-08 13:55:23.379
+,Web developer,CS2200,,Computer Science,T00005,Yasmeen,3,1,Core,,Active,2026-08-09 14:47:25.255
+,Graphic Designer,CS1024,,Computer Science,T00001,Waqar,3,1,Core,,Active,2026-08-09 22:22:12.132
+,CPISM,CS10024,,Software Engineering,T101,Asif,3,1,Core,,Active,2026-08-10 20:48:40.841

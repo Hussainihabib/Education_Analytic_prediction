@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+
+body {
+  @apply bg-cream-50 text-navy-900 antialiased;
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+}
+
+.dark body { @apply bg-navy-950 text-cream-100; }
+
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 8px; }
+.dark ::-webkit-scrollbar-thumb { background: #334155; }
+
+.eyebrow {
+  @apply text-[11px] font-mono tracking-[0.18em] uppercase text-slate-400;
+}
+
+.card {
+  @apply bg-white dark:bg-navy-800 rounded-xl shadow-card border border-slate-100 dark:border-navy-700;
+}
+
+.btn-primary {
+  @apply bg-navy-900 hover:bg-navy-800 text-white text-sm font-medium px-4 py-2.5 rounded-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+.btn-secondary {
+  @apply bg-white hover:bg-slate-50 text-navy-900 text-sm font-medium px-4 py-2.5 rounded-lg border border-slate-200 transition-colors dark:bg-navy-700 dark:text-cream-100 dark:border-navy-600 dark:hover:bg-navy-600;
+}
+
+.btn-danger {
+  @apply bg-red-50 hover:bg-red-100 text-red-600 text-sm font-medium px-4 py-2.5 rounded-lg transition-colors;
+}
+
+.input {
+  @apply w-full rounded-lg border border-slate-200 bg-white px-3.5 py-2.5 text-sm outline-none focus:ring-2 focus:ring-amber-accent/40 focus:border-amber-accent transition-shadow dark:bg-navy-700 dark:border-navy-600 dark:text-cream-100;
+}
+
+.label {
+  @apply block text-sm font-medium text-slate-600 dark:text-slate-300 mb-1.5;
+}
+
+.badge {
+  @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-xs font-medium;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+.live-dot { animation: pulse-dot 1.6s ease-in-out infinite; }
+
+@keyframes ticker {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.animate-ticker { animation: ticker 22s linear infinite; }
